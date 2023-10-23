@@ -3106,6 +3106,7 @@ ul.contact li {
 
 .featured {
   height: auto;
+  border: solid red 4px;
   width: 50% !important;
   display: flex;
   justify-content: left; /* Center the video horizontally */
