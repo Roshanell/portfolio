@@ -3106,12 +3106,11 @@ ul.contact li {
 
 .featured {
   height: auto;
-  width: auto;
+  width: 100%;
   display: flex;
   justify-content: left; /* Center the video horizontally */
   align-items: center;
 }
 .video {
-  max-width: 100%;
-  min-width: 50%;
+  max-width: 50%;
 }
