@@ -3112,6 +3112,7 @@ ul.contact li {
   justify-content: left; /* Center the video horizontally */
   align-items: center;
 }
-.video {
-  max-width: 50% !important;
+video {
+  height: auto;
+  width: 100%;
 }
