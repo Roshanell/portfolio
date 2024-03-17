@@ -3116,3 +3116,7 @@ video {
   height: auto;
   width: 100%;
 }
+
+.skills {
+  margin-top: 10%;
+}
