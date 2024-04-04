@@ -3120,3 +3120,9 @@ video {
 .skills {
   margin-top: 10%;
 }
+
+.circle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
